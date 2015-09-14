@@ -1,0 +1,18 @@
+#wrapper
+{
+    height: 477px;
+    overflow: hidden;
+    margin: 0 auto;
+    position: relative;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+
+}
+
+#wrapper img
+{
+    position: absolute;
+    left: 0;
+    display: block;
+    float: left;
+}
